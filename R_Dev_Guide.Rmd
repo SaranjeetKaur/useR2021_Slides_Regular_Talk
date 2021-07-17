@@ -9,10 +9,7 @@ output:
       highlightStyle: github
       highlightLines: true
       countIncrementalSlides: false
----
-
 layout: true
-
 background-image: url(useR_logo.png)
 background-position: 0% 100%;
 background-size: 10%
